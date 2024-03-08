@@ -1,10 +1,12 @@
 # Adenovirus-Based-COVID-19-Vaccines
-Simulation of Immunological Response Post-Vaccination
+## Simulation of Immunological Response Post-Vaccination
 The ODE-based model introduced in this work is based on the biological signalling pathway of the immune response to vaccination. The model includes both cellular and
-humoral immune system components, including vaccine particles, T helper cells, interferon-gamma (IFNγ), interleukin 6 (IL6), plasma B-cells, antibodies, and cytotoxic T-cells. Model
-parameters were fit to clinical trial data for the COVID-19 ChAdOx1-S (AZD1222) vaccine developed by the University of Oxford and AstraZeneca. By executing the Julia language scripts named Vaccine.ipynb and Vaccine,test parameter fitting,Final fitted.ipynb, simulations can be observed post-primary and booster doses of the vaccine, alongside the outcomes of the parameter fitting process. 
+humoral immune system components, including vaccine particles, T helper cells, interferon-gamma (IFNγ), interleukin 6 (IL6), plasma B-cells, antibodies, and cytotoxic 
+T-cells. Model parameters were fit to clinical trial data for the COVID-19 ChAdOx1-S (AZD1222) vaccine developed by the University of Oxford and AstraZeneca. By executing
+the Julia language scripts named Vaccine.ipynb and Vaccine,test parameter fitting,Final fitted.ipynb, simulations can be observed post-primary and booster doses of the vaccine, 
+alongside the outcomes of the parameter fitting process. 
 
-Citation
+# Citation
 
  If you are using these codes please cite:
  
